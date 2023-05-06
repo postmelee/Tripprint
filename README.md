@@ -7,7 +7,7 @@ Check out where you've been in your life so far with various options
   - finding aspects of the places has in common so we could sugguest the next travel destination for user based on these infos.
   - using MBTI or whatever thing 
   - competition with your friend and the world, statistics with an overall score
-    - fds  
+    - the one has visited most where no one has been, the one has visited most rivers in the world, parks, restaurants...
 - Neat UI for summering page -> sharing to other social media for showing off (marketing)
 
 ## Goals
