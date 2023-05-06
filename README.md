@@ -7,4 +7,4 @@ Check out where you've been in your life so far with various options
 - Neat UI for summering page -> sharing to other social media for showing off (marketing)
 
 ## Goals
-### The app to describe who you are to the world for travelers, also friendly reminder to look back what you've done so far
+### An app to describe who you are to the world for travelers, also friendly reminder to look back what you've done so far
